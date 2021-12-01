@@ -27,4 +27,6 @@
 * *`from sklearn.metrics import accuracy_score` - This is to measure the accuracy score of the model.*
 
 ### Fact
-* *Generally, there is a solver involved in all the logistic regressions, and the default solver is `liblinear`, which is highly efficient for linear logistic regression. This is also efficient with binary logistic regressions that we learnt earlier. For `multinomial` logistic regression, `solver='saga'` is highly efficient. It works well with large number of samples and supports `multinomial` logistic regressions, like this one.*
+* *Generally, there is a solver involved in all the logistic regressions, and the default solver is `liblinear`, which is highly efficient for linear logistic regression.*
+* *This is also efficient with binary logistic regressions that we learnt earlier.*
+* *For `multinomial` logistic regression, `solver='saga'` is highly efficient. It works well with large number of samples and supports `multinomial` logistic regressions, like this one.*
