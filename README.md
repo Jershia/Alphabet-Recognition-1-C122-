@@ -6,7 +6,7 @@
   * Logistic regression
   * Confusion matrix
 
-## Steps To Create A Prediction Algorithm To Detect Alphabets/Numbers
+## Steps To Create A Prediction Algorithm To Detect Alphabets/Numbers (Part - 1)
   * *We imported all the necessary libraries.*
   * *We fetched the data from the open ml library.*
   * *We printed the data to see what the images looked like.*
